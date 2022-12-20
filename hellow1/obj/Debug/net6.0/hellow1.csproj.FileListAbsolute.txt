@@ -1,0 +1,15 @@
+C:\Users\xGAx\source\repos\hellow1\hellow1\bin\Debug\net6.0\hellow1.exe
+C:\Users\xGAx\source\repos\hellow1\hellow1\bin\Debug\net6.0\hellow1.deps.json
+C:\Users\xGAx\source\repos\hellow1\hellow1\bin\Debug\net6.0\hellow1.runtimeconfig.json
+C:\Users\xGAx\source\repos\hellow1\hellow1\bin\Debug\net6.0\hellow1.dll
+C:\Users\xGAx\source\repos\hellow1\hellow1\bin\Debug\net6.0\hellow1.pdb
+C:\Users\xGAx\source\repos\hellow1\hellow1\obj\Debug\net6.0\hellow1.csproj.AssemblyReference.cache
+C:\Users\xGAx\source\repos\hellow1\hellow1\obj\Debug\net6.0\hellow1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xGAx\source\repos\hellow1\hellow1\obj\Debug\net6.0\hellow1.AssemblyInfoInputs.cache
+C:\Users\xGAx\source\repos\hellow1\hellow1\obj\Debug\net6.0\hellow1.AssemblyInfo.cs
+C:\Users\xGAx\source\repos\hellow1\hellow1\obj\Debug\net6.0\hellow1.csproj.CoreCompileInputs.cache
+C:\Users\xGAx\source\repos\hellow1\hellow1\obj\Debug\net6.0\hellow1.dll
+C:\Users\xGAx\source\repos\hellow1\hellow1\obj\Debug\net6.0\refint\hellow1.dll
+C:\Users\xGAx\source\repos\hellow1\hellow1\obj\Debug\net6.0\hellow1.pdb
+C:\Users\xGAx\source\repos\hellow1\hellow1\obj\Debug\net6.0\hellow1.genruntimeconfig.cache
+C:\Users\xGAx\source\repos\hellow1\hellow1\obj\Debug\net6.0\ref\hellow1.dll
